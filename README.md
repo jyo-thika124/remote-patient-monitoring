@@ -2,7 +2,8 @@
 
 ## Description
 This project analyzes human vital signs data for patients to monitor health trends, risk categories, and derived metrics like BMI and MAP using data visualization.
-
+## Visualization Dashboard
+https://public.tableau.com/app/profile/bhuvaneshwari.s8048/viz/RemotepatientMonitoringDashboard/Dashboard22
 ## Dataset
 Source: Kaggle – Human Vital Signs Dataset  
 Contains patient details, vital signs (Heart Rate, Blood Pressure, Temperature), and derived metrics (BMI, MAP).
